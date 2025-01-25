@@ -11,3 +11,7 @@ n3 = float(input("Digite a terceira nota: "))
 media = (n1 + n2 + n3)/ 3
 
 print("As notas foram {:.1f}, {:.1f} e {:.1f} e a média é {:.2f}.".format(n1, n2, n3, media))
+if media >= 16:
+    print("Parabéns, você passou com louvor no vestibular!")
+else:
+    print("Infelizmente você não alcançou a média necessária pra passar no vestibular.")
