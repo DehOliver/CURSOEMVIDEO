@@ -5,4 +5,4 @@ if salario <=1250:
 else:
     aumento = (10 * salario) / 100
 
-print("Com o aumento< seu salário subiu de R${:.1f} para R${:.1f}!".format(salario, salario+aumento))
+print("Com o aumento< seu salário subiu de R${:.2f} para R${:.2f}!".format(salario, salario+aumento))
