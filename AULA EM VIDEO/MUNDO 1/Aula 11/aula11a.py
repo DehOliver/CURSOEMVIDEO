@@ -1,0 +1,1 @@
+print("\033[36mVai se foder bart simpsons!\033[m")
