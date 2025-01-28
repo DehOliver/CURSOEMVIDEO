@@ -1,4 +1,0 @@
-1 = () - Parentêses
-2 = ** - Potênciação
-3 = *, /, //, % - Multiplicação, Divisão, Divisão Inteira e Resto da Divisão
-4 = +, - - Soma e Subtração
